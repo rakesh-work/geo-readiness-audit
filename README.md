@@ -1,4 +1,3 @@
-[geo_readiness_audit_readme.md](https://github.com/user-attachments/files/34987846/geo_readiness_audit_readme.md)
 # geo-readiness-audit
 
 Zero-dependency Python CLI to audit any B2B SaaS domain for **Generative Engine Optimization (GEO)** and **Open Knowledge Format (OKF)** machine-readable endpoints.
